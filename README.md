@@ -1,18 +1,40 @@
 # Ethereum tip jar
 
-Welcome to the Ethereum Tip Jar, a blockchain-based application developed using Solidity. This digital "tip jar" allows you to show your appreciation to developers by leaving a tip in the form of Ethereum. Moreover, you can enhance your contribution with an optional message, making your support more personalized. Simply connect your wallet and share your generosity with the world!
+Welcome to the Ethereum Tip Jar, an innovative blockchain-based application designed using Solidity. This digital "tip jar" offers a unique way for you to express your gratitude and appreciation towards developers and creators. By utilizing the Ethereum blockchain, you can leave a tip in Ethereum, accompanied by a personalized message to show your support. This platform not only fosters a sense of community but also encourages the spirit of giving in the digital age. Get started by simply connecting your wallet and sharing your generosity with those who inspire you!
 
-## Built with:
+## Features
 
-- Solidity: An object-oriented, high-level language for implementing smart contracts on the Ethereum blockchain.
+- Wallet Integration: Securely connect your Ethereum wallet to send tips.
+- User-Friendly Interface: A simple and intuitive UI for a seamless tipping experience.
+- Message Functionality: Add a personal touch to your tip with a custom message.
+- On-Chain Storage: Memos and transactions are securely stored on the Ethereum blockchain.
+- Real-Time Updates: View the latest memos and contributions from the Ethereum community.
 
-- Next.js: A popular React.js framework for building JavaScript-based web applications.
+## Technologies used
 
-- CSS: Cascading Style Sheets (CSS) is used for styling and laying out web pages—for example, to alter the font, color, size, and spacing of your content, split it into multiple columns, or add animations and other decorative features.
+- Solidity: The primary programming language for writing smart contracts on the Ethereum blockchain. It's an object-oriented, high-level language known for its security and efficiency.
 
-## Demo:
+- Next.js: A cutting-edge framework for React.js that enables server-side rendering and static site generation, enhancing the speed and user experience of web applications.
 
-![](./public/demo%20dapp.gif)
+- Ethers.js: A library for interacting with the Ethereum Blockchain and its ecosystem, used to facilitate wallet connections and smart contract interactions.
+
+- Web3.js: Another popular JavaScript library for interacting with Ethereum nodes over IPC or HTTP, encapsulating the Ethereum API in JavaScript objects.
+
+- CSS: Employed for styling, it enhances the visual appeal of the application, providing a more engaging and user-friendly interface.
+
+## Getting started
+
+To start using Ethereum Tip Jar:
+
+1. Clone the Repository: Download the codebase onto your local machine.
+2. Install Dependencies: Run npm install to install necessary packages.
+3. Set Up Environment Variables: Configure your .env file with the appropriate Ethereum network and API keys.
+4. Run the Application: Execute npm run dev to start the application locally.
+5. Connect Your Wallet: Use a Web3 provider like MetaMask to connect your Ethereum wallet.
+
+## Demo
+
+![demo](./public/demo%20dapp.gif)
 
 ## Deployment
 
