@@ -38,7 +38,7 @@ To start using Ethereum Tip Jar:
 
 ## Deployment
 
-[Vercel](https://buy-me-a-coffee-solidity-de-fi-tipping-app.vercel.app/)
+[Vercel](https://ethereum-tip.vercel.app/)
 
 ## Contributor
 
