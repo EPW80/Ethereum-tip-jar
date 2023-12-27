@@ -12,8 +12,8 @@ a {
 }
 
 * {
+  margin-bottom: 30px;
   box-sizing: border-box;
   background-color: aliceblue;
   color: rgb(169, 186, 203); /* Lighter shade */
 }
-
